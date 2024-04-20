@@ -1,1 +1,1 @@
-# vscode-inside-reactjs
+# VSCode Inside React js
